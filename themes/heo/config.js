@@ -35,6 +35,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  HERO_RECOMMEND_COVER: 'https://i.111666.best/image/URRrHnqDaUGi3uP44mK1Bc.jpg', // 英雄区右侧图片
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
@@ -56,8 +57,8 @@ const CONFIG = {
   HEO_INFO_CARD_URL3: 'https://qdsic.com',
   HEO_INFO_CARD_TEXT3: 'Learn more...',
 
-  // 用户技能图标
-  HEO_GROUP_ICONS: [
+  // 用户技能图标   已经禁用
+  //HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
