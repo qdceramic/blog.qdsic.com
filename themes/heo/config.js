@@ -61,18 +61,18 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: 'https://i.111666.best/image/3BYjVGGbn33YKzSegYwskD.jpeg',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'Tube',
+      img_2: 'https://i.111666.best/image/9OAIYMTkMJxZWMGSzB4qmv.jpeg',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      title_1: 'Beam',
+      img_1: 'https://i.111666.best/image/EwWf49ZhqyclVvJtH35c47.jpeg',
       color_1: '#57b6e6',
-      title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      title_2: 'beam',
+      img_2: 'https://i.111666.best/image/EwWf49ZhqyclVvJtH35c47.jpeg',
       color_2: '#4082c3'
     },
     {
