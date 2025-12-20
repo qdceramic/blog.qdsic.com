@@ -71,13 +71,13 @@ const CONFIG = {
       title_1: 'Beam',
       img_1: 'https://i.111666.best/image/EwWf49ZhqyclVvJtH35c47.jpeg',
       color_1: '#57b6e6',
-      title_2: 'beam',
-      img_2: 'https://i.111666.best/image/EwWf49ZhqyclVvJtH35c47.jpeg',
+      title_2: 'ssic sleeve',
+      img_2: 'https://i.111666.best/image/6jN41TGvMIgcHK55fF7qyU.jpg',
       color_2: '#4082c3'
     },
     {
-      title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      title_1: 'RBSIC burner',
+      img_1: 'https://i.111666.best/image/QQ3p37ZBeWBCsXZZQtwF5m.jpg',
       color_1: '#ffffff',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
