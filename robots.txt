@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://notion.51985211.xyz/sitemap.xml
