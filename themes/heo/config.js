@@ -79,13 +79,13 @@ const CONFIG = {
       title_1: 'RBSIC burner',
       img_1: 'https://i.111666.best/image/QQ3p37ZBeWBCsXZZQtwF5m.jpg',
       color_1: '#ffffff',
-      title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      title_2: 'silicon carbide ring',
+      img_2: 'https://i.111666.best/image/wUcJOExqnJO3pxPy88xhB9.png',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'nickel bonded tungsten carbide ring',
+      img_1: 'https://i.111666.best/image/75bZ7XvKWhZ2tCEs8aJZHM.png',
       color_1: '#eb6840',
       title_2: 'Principle',
       img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
