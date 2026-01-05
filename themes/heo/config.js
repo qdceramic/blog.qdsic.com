@@ -60,8 +60,8 @@ const CONFIG = {
   // 用户技能图标   已经禁用
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
-      img_1: 'https://i.111666.best/image/3BYjVGGbn33YKzSegYwskD.jpeg',
+      title_1: 'SSIC Rear ring',
+      img_1: 'https://i.111666.best/image/KPAJd3yTc5fn3s7Qi1yvE2.png',
       color_1: '#989bf8',
       title_2: 'Tube',
       img_2: 'https://i.111666.best/image/9OAIYMTkMJxZWMGSzB4qmv.jpeg',
@@ -87,8 +87,8 @@ const CONFIG = {
       title_1: 'nickel bonded tungsten carbide ring',
       img_1: 'https://i.111666.best/image/75bZ7XvKWhZ2tCEs8aJZHM.png',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'SSIC spool',
+      img_2: 'https://i.111666.best/image/QOv94wuuaxjVEACJcnVTXY.png',
       color_2: '#8f55ba'
     },
     {
