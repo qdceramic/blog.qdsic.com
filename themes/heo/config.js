@@ -95,7 +95,7 @@ const CONFIG = {
       title_1: 'SSiC Wear Resistant & Grinding Parts',
       img_1: 'https://i.111666.best/image/6v48k0AXvWzQiShMmxKQ5c.png',
       color_1: '#f29e39',
-      title_2: 'RBSIC/SISIC APEX',
+      title_2: 'RBSIC SISIC APEX',
       img_2: 'https://i.111666.best/image/eszTmMAnyygbNzglqj6s5T.png',
       color_2: '#2c51db'
     },
